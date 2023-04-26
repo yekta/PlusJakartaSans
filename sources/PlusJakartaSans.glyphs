@@ -1,18 +1,6 @@
 {
 .appVersion = "3151";
 .formatVersion = 3;
-DisplayStrings = (
-"̣",
-"̤",
-"/dieresiscomb_gravecomb",
-"̈",
-"/dieresiscomb_acutecomb",
-"/dieresiscomb_caroncomb",
-"/i.ss01",
-"/idotaccent",
-i,
-"̇˙"
-);
 axes = (
 {
 name = Weight;
@@ -52482,7 +52470,7 @@ metricRight = f;
 glyphname = f_f_i;
 kernLeft = f;
 kernRight = i;
-lastChange = "2021-11-11 11:01:39 +0000";
+lastChange = "2023-04-26 06:24:22 +0000";
 layers = (
 {
 anchors = (
@@ -52640,7 +52628,7 @@ metricRight = l;
 glyphname = fi;
 kernLeft = f;
 kernRight = i;
-lastChange = "2021-11-11 11:00:51 +0000";
+lastChange = "2023-04-26 06:22:41 +0000";
 layers = (
 {
 anchors = (
@@ -52657,6 +52645,10 @@ ref = f.liga;
 {
 pos = (377,0);
 ref = idotless;
+},
+{
+pos = (331,0);
+ref = dotaccent;
 }
 );
 width = 562;
@@ -52676,6 +52668,10 @@ ref = f.liga;
 {
 pos = (383,0);
 ref = idotless;
+},
+{
+pos = (329,0);
+ref = dotaccent;
 }
 );
 width = 582;
@@ -52695,6 +52691,10 @@ ref = f.liga;
 {
 pos = (400,0);
 ref = idotless;
+},
+{
+pos = (315,0);
+ref = dotaccent;
 }
 );
 width = 638;
