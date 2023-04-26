@@ -1,6 +1,9 @@
 {
 .appVersion = "3151";
 .formatVersion = 3;
+DisplayStrings = (
+";"
+);
 axes = (
 {
 name = Weight;
@@ -60654,7 +60657,7 @@ unicode = 8542;
 glyphname = period;
 kernLeft = period;
 kernRight = period;
-lastChange = "2023-04-26 00:44:26 +0000";
+lastChange = "2023-04-26 16:20:22 +0000";
 layers = (
 {
 layerId = "30C2FD74-1A74-41AC-9C29-B288AE1DBDD7";
@@ -61021,7 +61024,7 @@ unicode = 8230;
 },
 {
 glyphname = exclam;
-lastChange = "2023-04-26 00:41:17 +0000";
+lastChange = "2023-04-26 16:12:23 +0000";
 layers = (
 {
 layerId = "30C2FD74-1A74-41AC-9C29-B288AE1DBDD7";
@@ -61657,19 +61660,14 @@ metricRight = questiondown;
 },
 {
 glyphname = periodcentered;
-lastChange = "2021-11-10 07:41:50 +0000";
+lastChange = "2023-04-26 16:23:16 +0000";
 layers = (
 {
 layerId = "30C2FD74-1A74-41AC-9C29-B288AE1DBDD7";
 shapes = (
 {
-closed = 1;
-nodes = (
-(183,213,l),
-(183,323,l),
-(103,323,l),
-(103,213,l)
-);
+pos = (0,203);
+ref = period;
 }
 );
 width = 286;
@@ -61678,13 +61676,8 @@ width = 286;
 layerId = "9398AC28-6BE1-4A79-9C94-3CBC2F226CE7";
 shapes = (
 {
-closed = 1;
-nodes = (
-(279,198,l),
-(279,348,l),
-(129,348,l),
-(129,198,l)
-);
+pos = (0,181);
+ref = period;
 }
 );
 width = 408;
@@ -61693,13 +61686,8 @@ width = 408;
 layerId = "C1DB0BE6-5704-4A8C-8C00-D80E72C16D98";
 shapes = (
 {
-closed = 1;
-nodes = (
-(158,226,l),
-(158,316,l),
-(103,316,l),
-(103,226,l)
-);
+pos = (0,216);
+ref = period;
 }
 );
 width = 261;
